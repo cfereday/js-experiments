@@ -24,8 +24,8 @@ const printFirstCharV3 = (str) => {
     return head + recurse(tail);
 };
 
-// printFirstChar('heyy make me do some recursion stuff pls :D :D');
-// printFirstCharV2('heyy make me do some recursion stuff pls :D :D');
+printFirstChar('heyy make me do some recursion stuff pls :D :D');
+printFirstCharV2('heyy make me do some recursion stuff pls :D :D');
 printFirstCharV3('heyy make me do some recursion stuff pls :D :D');
 
 
